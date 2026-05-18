@@ -8,7 +8,7 @@ body{
 
   background:#dfe7f1;
 
-  font-family:Poppins;
+  font-family: 'Poppins', sans-serif;
 }
 
 .player{
@@ -152,7 +152,7 @@ audio{
 
   line-height:1.7;
   font-size:14px;
-  font-family:Poppins;
+  font-family: 'Poppins', sans-serif;
 
   box-sizing:border-box;
 }
