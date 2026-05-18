@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Music Player</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="player">
+
+  
+  <div class="vinyl-container">
+
+  <img
+    class="vinyl"
+    src="vinyl.png"
+    alt="vinyl">
+
+  <img
+    id="cover"
+    class="cover"
+    src=""
+    alt="cover">
+
+</div>
+
+  <!-- Judul -->
+  <h2 id="title">Judul Lagu</h2>
+  <p id="artist">Artist</p>
+
+  <!-- Audio -->
+  <audio id="audio"></audio>
+
+  <input 
+  type="range" 
+  id="progress" 
+  value="0" 
+  min="0" 
+  max="100">
+
+<div class="time">
+
+  <span id="current-time">
+    0:00
+  </span>
+
+  <span id="duration">
+    0:00
+  </span>
+
+</div>
+
+  <!-- Controls -->
+  <div class="controls">
+
+    <button class="control-btn" onclick="prevSong()">
+      ⏮
+    </button>
+
+    <button class="play-btn" id="play" onclick="playPause()">
+      ▶
+    </button>
+
+    <button class="control-btn" onclick="nextSong()">
+      ⏭
+    </button>
+
+  </div>
+
+<div class="lyrics" id="lyrics"></div>
+<div class="playlist" id="playlist"></div>
+
+</div>
+
+<script src="script.js"></script>
