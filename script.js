@@ -96,7 +96,7 @@ i promise i'll take care of us   `
   {
     title: "Biru",
     artist: "Gabriella Fernaldi",
-    file: "music/BIRU.mp3",
+    file: "music/Biru.mp3",
 
     cover: "photo/biru.jpg",
 
