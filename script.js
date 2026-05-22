@@ -137,6 +137,48 @@ Laguku untukmu, bentuk cinta yang biru
 Hm-uh-uh    `
   },
 
+{
+    title: "About You",
+    artist: "The 1975",
+    file: "music/about you.mp3",
+
+    cover: "photo/about you.jpg",
+
+lyrics: `
+I know a place
+It's somewhere I go when I need to remember your face
+We get married in our heads
+Something to do while we try to recall how we met
+
+Do you think I have forgotten?
+Do you think I have forgotten?
+Do you think I have forgotten about you?
+
+You and I (don't let go), we're alive (don't let go)
+With nothing to do, I could lay and just look in your eyes
+Wait (don't let go), and pretend (don't let go)
+Hold on, and hope that we'll find our way back in the end (in the end)
+
+Do you think I have forgotten?
+Do you think I have forgotten?
+Do you think I have forgotten about you?
+Do you think I have forgotten?
+Do you think I have forgotten?
+Do you think I have forgotten about you?
+
+And there was something 'bout you that now I can't remember
+It's the same damn thing that made my heart surrender
+And I miss you on a train, I miss you in the morning
+I never know what to think about
+I think about you (don't let go)
+About you (don't let go)
+
+Do you think I have forgotten about you? (Don't let go)
+About you
+About you
+Do you think I have forgotten about you? (Don't let go)    `
+  },
+  
   {
     title: "Pamit",
     artist: "Tulus",
